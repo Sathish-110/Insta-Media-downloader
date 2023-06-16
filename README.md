@@ -28,5 +28,5 @@
   <img src="https://github.com/Arone-S-G-H/GUI-Insta-Downloader/blob/main/Result/Instagram%20Downloader.png">
 </p>
 <p align="center">
-  <img src="https://github.com/Arone-S-G-H/GUI-Insta-Downloader/blob/main/Result/Instagram%20Downloader%202.png">
+  <img src="Result/Download.jpg">
 </p>
