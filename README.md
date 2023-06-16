@@ -17,7 +17,7 @@
 - Simple and beautiful User interface
 
 ## How to Install 
-- git clone https://github.com/Arone-S-G-H/GUI-Insta-Downloader
+- git clone https://github.com/Sathish-110/Insta-Media-downloader
 - pip install pillow
 - pip install instaloader
 - pip install tk
