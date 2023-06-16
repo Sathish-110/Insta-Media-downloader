@@ -25,7 +25,7 @@
 
 ## Result
 <p align="center">
-  <img src="https://github.com/Arone-S-G-H/GUI-Insta-Downloader/blob/main/Result/Instagram%20Downloader.png">
+  <img src="Result/Login.jpg">
 </p>
 <p align="center">
   <img src="Result/Download.jpg">
